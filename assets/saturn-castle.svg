@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260">
+  <defs>
+    <linearGradient id="sc-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8d7a6"></stop>
+      <stop offset="50%" stop-color="#c9a85a"></stop>
+      <stop offset="100%" stop-color="#8a6a2a"></stop>
+    </linearGradient>
+  </defs>
+
+  
+  <g transform="translate(130,130)">
+    
+    <g transform="rotate(-18)">
+      
+      <ellipse cx="0" cy="0" rx="78" ry="28" fill="none" stroke="url(#sc-gold)" stroke-width="2.5"></ellipse>
+      
+      <ellipse cx="0" cy="0" rx="70" ry="22" fill="none" stroke="url(#sc-gold)" stroke-width="1" opacity="0.55"></ellipse>
+      
+      <g fill="url(#sc-gold)">
+        <rect x="-58" y="-32" width="7" height="7"></rect>
+        <rect x="-44" y="-34" width="7" height="7"></rect>
+        <rect x="-30" y="-35" width="7" height="7"></rect>
+        <rect x="-16" y="-36" width="7" height="7"></rect>
+        <rect x="-2" y="-36" width="7" height="7"></rect>
+        <rect x="12" y="-36" width="7" height="7"></rect>
+        <rect x="26" y="-35" width="7" height="7"></rect>
+        <rect x="40" y="-34" width="7" height="7"></rect>
+        <rect x="54" y="-32" width="7" height="7"></rect>
+      </g>
+    </g>
+    
+    <circle cx="0" cy="0" r="24" fill="url(#sc-gold)"></circle>
+    
+    <path d="M -12 -6 q 12 -6 24 0" fill="none" stroke="#1a1108" stroke-width="1.2" opacity="0.35"></path>
+  </g>
+
+  
+  <g transform="translate(240,118)" fill="#e8d7a6" font-family="Manrope, &#39;Inter Tight&#39;, system-ui, sans-serif">
+    <text x="0" y="0" font-size="44" font-weight="700" letter-spacing="-1.5">SATURN</text>
+    <text x="2" y="34" font-size="18" font-weight="400" letter-spacing="6" fill="url(#sc-gold)">C · A · S · T · L · E</text>
+  </g>
+
+  
+  <line x1="240" y1="158" x2="500" y2="158" stroke="url(#sc-gold)" stroke-width="0.8" opacity="0.5"></line>
+  <text x="240" y="178" font-family="&#39;IBM Plex Mono&#39;, monospace" font-size="9" letter-spacing="2" fill="#c9a85a" opacity="0.85">EST · MMXXV</text>
+</svg>
